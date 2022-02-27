@@ -12,7 +12,6 @@
 		6A1911EC27C7FA6200F70AC5 /* CategoryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A1911EB27C7FA6200F70AC5 /* CategoryVC.swift */; };
 		6A8C92F8273AB0FF0083ABDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C92F7273AB0FF0083ABDB /* AppDelegate.swift */; };
 		6A8C92FA273AB0FF0083ABDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C92F9273AB0FF0083ABDB /* SceneDelegate.swift */; };
-		6A8C92FC273AB0FF0083ABDB /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C92FB273AB0FF0083ABDB /* SecondVC.swift */; };
 		6A8C92FF273AB0FF0083ABDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A8C92FD273AB0FF0083ABDB /* Main.storyboard */; };
 		6A8C9302273AB0FF0083ABDB /* Test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C9300273AB0FF0083ABDB /* Test.xcdatamodeld */; };
 		6A8C9304273AB10E0083ABDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A8C9303273AB10E0083ABDB /* Assets.xcassets */; };
@@ -20,10 +19,8 @@
 		6A8C9312273AB10F0083ABDB /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C9311273AB10F0083ABDB /* TestTests.swift */; };
 		6A8C931C273AB10F0083ABDB /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C931B273AB10F0083ABDB /* TestUITests.swift */; };
 		6A8C931E273AB10F0083ABDB /* TestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8C931D273AB10F0083ABDB /* TestUITestsLaunchTests.swift */; };
-		6A8E30D3279D9D3800023021 /* VC3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8E30D2279D9D3800023021 /* VC3.swift */; };
 		6A92FFBA27BD727A00B73296 /* TodoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A92FFB927BD727A00B73296 /* TodoVC.swift */; };
 		6AADF8F027AAD1860038BBDE /* ApiCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AADF8EF27AAD1860038BBDE /* ApiCall.swift */; };
-		6AFA17E8278FFCB50065F999 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFA17E7278FFCB50065F999 /* FirstVC.swift */; };
 		7DBF0394E5B894BBE686BDEF /* Pods_TestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5513414F5165E8E7FFB37F04 /* Pods_TestTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -54,7 +51,6 @@
 		6A8C92F4273AB0FF0083ABDB /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A8C92F7273AB0FF0083ABDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A8C92F9273AB0FF0083ABDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6A8C92FB273AB0FF0083ABDB /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 		6A8C92FE273AB0FF0083ABDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6A8C9301273AB0FF0083ABDB /* Test.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Test.xcdatamodel; sourceTree = "<group>"; };
 		6A8C9303273AB10E0083ABDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,10 +61,8 @@
 		6A8C9317273AB10F0083ABDB /* TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A8C931B273AB10F0083ABDB /* TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITests.swift; sourceTree = "<group>"; };
 		6A8C931D273AB10F0083ABDB /* TestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		6A8E30D2279D9D3800023021 /* VC3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC3.swift; sourceTree = "<group>"; };
 		6A92FFB927BD727A00B73296 /* TodoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoVC.swift; sourceTree = "<group>"; };
 		6AADF8EF27AAD1860038BBDE /* ApiCall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiCall.swift; sourceTree = "<group>"; };
-		6AFA17E7278FFCB50065F999 /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
 		6CD8FB3E3B74463C39DFF761 /* Pods-TestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestTests.release.xcconfig"; path = "Target Support Files/Pods-TestTests/Pods-TestTests.release.xcconfig"; sourceTree = "<group>"; };
 		A94F6A973DA7909744D7A3C5 /* Pods_Test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE13C73E9529FD8B84978809 /* Pods-Test.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Test.release.xcconfig"; path = "Target Support Files/Pods-Test/Pods-Test.release.xcconfig"; sourceTree = "<group>"; };
@@ -189,9 +183,6 @@
 			children = (
 				6A92FFB927BD727A00B73296 /* TodoVC.swift */,
 				6A1911EB27C7FA6200F70AC5 /* CategoryVC.swift */,
-				6A8C92FB273AB0FF0083ABDB /* SecondVC.swift */,
-				6A8E30D2279D9D3800023021 /* VC3.swift */,
-				6AFA17E7278FFCB50065F999 /* FirstVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -456,9 +447,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A8E30D3279D9D3800023021 /* VC3.swift in Sources */,
-				6AFA17E8278FFCB50065F999 /* FirstVC.swift in Sources */,
-				6A8C92FC273AB0FF0083ABDB /* SecondVC.swift in Sources */,
 				6A1911EC27C7FA6200F70AC5 /* CategoryVC.swift in Sources */,
 				6AADF8F027AAD1860038BBDE /* ApiCall.swift in Sources */,
 				6A8C9302273AB0FF0083ABDB /* Test.xcdatamodeld in Sources */,
